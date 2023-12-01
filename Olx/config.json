@@ -1,0 +1,29 @@
+﻿{
+  "App": {
+    "Directory": "_results",
+    "ListIdFile": "listIds.txt",
+    "SearchItems": [
+      {
+        "Name": "6600",
+        "Url": "https://www.olx.ro/oferte/q-rx-6600/",
+        "FilePath": "olx6600"
+      },
+      {
+        "Name": "6650",
+        "Url": "https://www.olx.ro/oferte/q-rx-6650/",
+        "FilePath": "olx6650"
+      },
+      {
+        "Name": "6700",
+        "Url": "https://www.olx.ro/oferte/q-rx-6700/",
+        "FilePath": "olx6700"
+      },
+      {
+        "Name": "3060ti",
+        "Url": "https://www.olx.ro/oferte/q-3060-ti/",
+        "FilePath": "olx3060ti"
+      }
+    ],
+    "SearchInterval": 5000
+  }
+}
